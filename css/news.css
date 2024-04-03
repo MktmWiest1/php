@@ -1,0 +1,123 @@
+/*place_holder_left*/
+.left_news {
+    width: 600px;
+    padding-right: 20px;
+    float: left;
+}
+
+.post_box {
+    clear: both;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 0.5px solid #ccc;
+}
+
+.post_box p a {
+    text-decoration-line: revert;
+    color: #2e888c;
+}
+
+.post_header {
+    border-top: 3px solid #999;
+    border-bottom: 1px solid #ccc;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.post_header h5 {
+    margin-top: 20px;
+}
+
+.post_box button {
+    margin-left: 500px;
+}
+
+
+.post_box p.post_meta {
+    margin-bottom: 0;
+}
+
+.post_box img {
+    clear: both;
+    padding: 8px;
+    width: 583px;
+    height: 250px;
+    border: 1px solid #ccc;
+    background: #fff;
+    margin-bottom: 10px;
+}
+
+/*place_holder_right*/
+.right_news {
+    float: right;
+    width: 280px;
+    padding-right: 20px;
+}
+
+.categoris {
+    margin-right: 40px;
+    margin-top: 5px;
+}
+
+.categoris h4 {
+    margin-bottom: 15px;
+}
+
+.check_point ul li {
+    margin-bottom: -7px;
+}
+
+.our_news {
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.our_news h4 {
+    font-size: 30px;
+}
+
+.our_news .news {
+    width: 250px;
+}
+
+.our_news button {
+    margin-left: 200px;
+}
+
+.our_news .bottom {
+    margin-top: 40px;
+}
+
+.our_news .news img {
+    width: 80px;
+    height: 80px;
+}
+
+.our_news .gray_line {
+    width: 250px;
+}
+
+.our_news .text-content p {
+    font-size: 12px;
+
+}
+
+
+/*testimonials*/
+.testimonials {
+    margin-top: 60px;
+    width: 300px;
+}
+
+.testimonials p {
+    margin-top: 10px;
+    font-size: 15px;
+    font-style: italic;
+    margin-bottom: 20px;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.testimonials i {
+    color: #2e888c;
+}

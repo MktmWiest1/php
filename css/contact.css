@@ -1,0 +1,111 @@
+.inner_information{
+margin-top: 40px;
+margin-bottom: 40px ;
+display: flex;
+}
+
+.info_contact{
+width: 450px;
+}
+
+.info_contact p {
+font-size: 15px;
+margin-top: 15px;
+text-align: left;
+
+}
+
+.info_contact p a{
+text-decoration-line: revert;
+}
+.where{
+margin-top: 50px;
+}
+.where img{
+width: 250px;
+height: 150px;
+margin-top: 20px;
+padding: 5px;
+border: 1px solid #3b3b3b;
+display: inline-block;
+}
+.company{
+margin-top: 30px;
+width: 240px;
+
+}
+.company p{
+margin-top: 5px;
+}
+.company ul{
+margin-top: 30px;
+font-size: 15px;
+}
+
+.company ul li{
+padding-top: 10px ;
+}
+
+.company h6{
+color: #030303;
+font-size: 17px;
+margin-top: 25px;
+
+}
+
+/*contact_form*/
+
+.info_form{
+margin-top: 50px;
+margin-left: 60px;
+}
+
+.form-group{
+margin-top: 20px;
+}
+
+
+.input_field {
+width: 375px;
+height: 25px;
+color: #5b5a5a;
+padding: 10px;
+margin-top: 5px;
+border: none;
+background: #fff;
+}
+
+label {
+display: block;
+width: 100px;
+margin-top: 15px;
+margin-bottom: 6px;
+color: #030303;
+font-size: 15px;
+
+}
+
+textarea {
+width: 375px;
+height: 270px;
+padding: 5px;
+color: #333;
+border: 1px solid #ccc;
+background: #fff;
+}
+
+.form-buttons .send {
+margin: 10px 0;
+padding: 5px 14px;
+border: 1px solid #ccc;
+background: #fff;
+cursor: pointer;
+}
+
+.form-buttons .reset {
+padding: 5px 14px;
+margin-left: 230px;
+border: 1px solid #ccc;
+background: #fff;
+cursor: pointer;
+}
